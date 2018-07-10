@@ -1,0 +1,4 @@
+#Sun Jul 08 22:32:53 IST 2018
+base.0=C\:\\Users\\singh\\Downloads\\Expense-Multi-View-List-Assignment-master\\Expense-Multi-View-List-Assignment-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
